@@ -1,0 +1,19 @@
+{
+  "name": "hicn-starter",
+  "version": "0.0.1",
+  "description": "Just Sample",
+  "main": "index.js",
+  "authors": {
+    "name": "Habib Imron Cahyo Nugroho",
+    "email": "habibimron1508@gmail.com"
+  },
+  "repository": "https://github.com/habibimroncn/hicn-starter.git/hicn-starter",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
